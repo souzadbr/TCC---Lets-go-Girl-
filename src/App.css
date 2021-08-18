@@ -1,0 +1,10 @@
+.Inicio img {
+  border-radius: 100%;
+  width: 200px;
+  margin: 15px 500px 40px 550px;
+}
+.Inicio table {
+  margin: -20px 500px 40px 490px;
+  letter-spacing: 1px;
+  word-spacing: 10px;
+}
