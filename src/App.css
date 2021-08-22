@@ -1,10 +1,49 @@
+body {
+  margin: auto;
+  padding: none;
+  background-color: lightpink;
+}
 .Inicio img {
   border-radius: 100%;
-  width: 200px;
-  margin: 15px 500px 40px 550px;
+  width: 250px;
+  margin: 15px 500px 40px 520px;
 }
-.Inicio table {
-  margin: -20px 500px 40px 490px;
+div ul {
+  margin: -20px 400px 40px 475px;
   letter-spacing: 1px;
-  word-spacing: 10px;
+  list-style: none;
+}
+
+div ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+td {
+  word-spacing: 15px;
+}
+.foto img {
+  width: 200px;
+  margin: 15px 500px 20px 250px;
+  padding: 15px 500px 20px 50px;
+
+  background-image: url(img/mandala.jpg);
+}
+
+.foto h3 {
+  margin: 15px 500px 20px 250px;
+}
+.foto p {
+  margin: 15px 300px 20px 250px;
+}
+
+.Linkprojeto div img {
+  background-image: none;
+  background-color: none;
+  width: 150px;
+  display: flex;
+}
+
+.titulo h4 {
+  margin: 15px 500px 20px 250px;
 }

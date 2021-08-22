@@ -1,7 +1,8 @@
 
 import './App.css';
 import Header from './componentes/header';
-import Sou from './scr/componentes/perfil'
+import Sou from './componentes/perfil'
+import Projeto from './componentes/projetos';
 
 function App() {
   return (
@@ -10,8 +11,12 @@ function App() {
       <Header/>
     </div>
     <div>
-<Sou/>
+      <Sou/>
     </div>
+    <div>
+      <Projeto/>
+    </div>
+
     </div>
   );
 }
