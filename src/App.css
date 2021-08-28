@@ -36,15 +36,7 @@ td {
 .foto p {
   margin: 15px 300px 20px 250px;
 }
-.Linkprojeto {
-  display: flex;
-}
-.Linkprojeto div img {
-  background-image: none;
-  background-color: none;
-  width: 150px;
-}
 
-.titulo h4 {
-  margin: 15px 500px 20px 250px;
+#titulo h4 {
+  margin: 15px 500px 20px 300px;
 }
